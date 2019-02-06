@@ -1,2 +1,0 @@
-# rndBeer
-Created with CodeSandbox
